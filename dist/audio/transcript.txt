@@ -28,7 +28,7 @@ The following day, an AI-assisted support reply refused the requested transfer. 
 
 The new case was closed as a duplicate. He returned to the original thread. In the emails we reviewed, there was no further reply before he recovered access and asked to close the case.
 
-Even the data export failed him. He received an email saying the export was ready and opened the download link immediately. Instead of his account data, the page returned an error: “Not found.”
+Even the export of his ChatGPT account data failed him. He received an email saying the export was ready and opened the download link immediately. Instead of his ChatGPT account data, the link opened a JSON output page with an error: Not found.
 
 Google Support said the deleted passkeys couldn't be recovered. Microsoft escalated his question, but its final email offered no supported way to recover them from the historical data we'd found.
 
