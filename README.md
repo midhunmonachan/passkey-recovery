@@ -2,7 +2,7 @@
 
 A deleted OpenAI passkey, an old Edge snapshot, and a successful sign-in.
 
-**[Read the story and listen to the audio](https://passkey-recovery.midhunmonachan.chatgpt.site/)**
+**[Read the story and listen to the audio](https://openai-story.midhun.ca/)**
 
 Midhun and Astra recovered a previously synced Microsoft Password Manager passkey after password cleanup removed it from connected devices. The separate recovery file had been erased with a returned laptop.
 
